@@ -133,10 +133,9 @@ mov [5033h],ax
 
 ret
 ```
+## Output
 
-## Output 
-
-'000000000000000000000000000000000000000![image](https://github.com/user-attachments/assets/76cc5dfb-7f16-493b-a665-6f9b71e9910e)
+![image](https://github.com/user-attachments/assets/76cc5dfb-7f16-493b-a665-6f9b71e9910e)
 
 
 ## Result :
